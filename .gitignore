@@ -8,7 +8,7 @@
 .buildlog/
 .history
 .svn/
-lib/test/
+test/
 # IntelliJ related
 *.iml
 *.ipr
